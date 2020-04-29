@@ -39,3 +39,6 @@ Really new to this. I have no idea what am I doing now.
 - [x] Project milestone 2
 - [ ] CSCI 2720 project
 - [ ] CSCI 2720 Asg 4
+
+## Screenshots
+![](https://github.com/csci3251-2020/student-1155127273/blob/master/Capture01.PNG)
